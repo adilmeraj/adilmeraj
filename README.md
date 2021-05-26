@@ -4,7 +4,7 @@
 
 Founder at Gurucool. Self-proclaimed 'Canva Expert'. Creator of a not yet finished comic. Polyglot wannabe (10 languages before 25). Infamous for puns. Love to make Origami. Clumsy and carefree..
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hidayat7z" alt="hidayat7z" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adilmeraj" alt="adilmeraj" /> </p>
 
 
 ### Send me a message!
