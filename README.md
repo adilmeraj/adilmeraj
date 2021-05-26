@@ -7,12 +7,6 @@ Founder at Gurucool. Self-proclaimed 'Canva Expert'. Creator of a not yet finish
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hidayat7z" alt="hidayat7z" /> </p>
 
 
-### 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adilmeraj&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=My+GitHub+Stats&show_icons=true" />
-
----
-
 ### Send me a message!
 
 - I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
